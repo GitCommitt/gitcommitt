@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=GitCommitt&reversal=false&section=header&textBg=false&fontColor=dadae3&fontAlign=50" />
-</p>
+<img width="3308" height="936" alt="mockly_github_chart_2026-09-15T20-41-04" src="https://github.com/user-attachments/assets/08a755f7-9e33-4bfe-bd17-8ecef6b71b05" />
+
 
 ## ⚙️ &nbsp;GitCommitt_config.yml
 
@@ -12,7 +11,7 @@ developer:
   name: "Daan Pronk"
   role: "Full Stack Developer"
   location: "Netherlands"
-  status: "🖨️ 3D Printing Code..."
+  status: "☕ Turning coffee into code"
 
 tech_stack:
   primary:
@@ -22,6 +21,7 @@ tech_stack:
     - JavaScript
     - React
     - C++
+    - Python
   backend_and_db:
     - MySQL
     - Nginx
@@ -29,6 +29,7 @@ tech_stack:
     - Tailwind CSS
     - HTML5
     - CSS3
+    - Sass
   hardware_and_tools:
     - Arduino IDE
     - VS Code
