@@ -1,16 +1,40 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=GitCommitt&reversal=false&section=header&textBg=false&fontColor=dadae3&fontAlign=50" />
+</p>
 
-<!--
-**GitCommitt/gitcommitt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ⚙️ &nbsp;GitCommitt_config.yml
 
-Here are some ideas to get you started:
+```yaml
+version: "3.8"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+developer:
+  username: "GitCommitt"
+  name: "Daan Pronk"
+  role: "Full Stack Developer"
+  location: "Netherlands"
+  status: "🖨️ 3D Printing Code..."
+
+tech_stack:
+  primary:
+    - PHP
+    - Laravel
+    - Node.js
+    - JavaScript
+    - React
+    - C++
+  backend_and_db:
+    - MySQL
+    - Nginx
+  frontend:
+    - Tailwind CSS
+    - HTML5
+    - CSS3
+  hardware_and_tools:
+    - Arduino IDE
+    - VS Code
+    - Git & GitHub
+
+preferences:
+  code_style: "Clean & Maintainable"
+  theme: "Dark Mode Everything"
+  learning_mode: true
