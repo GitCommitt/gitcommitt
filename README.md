@@ -17,11 +17,9 @@ tech_stack:
   primary:
     - PHP
     - Laravel
-    - Node.js
     - JavaScript
     - React
     - C++
-    - Python
   backend_and_db:
     - MySQL
     - Nginx
