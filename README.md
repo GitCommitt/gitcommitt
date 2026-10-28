@@ -11,6 +11,7 @@ developer:
   name: "Daan Pronk"
   role: "Full Stack Developer"
   location: "Netherlands"
+  website: "Daanpronk.com"
   status: "☕ Turning coffee into code"
 
 tech_stack:
